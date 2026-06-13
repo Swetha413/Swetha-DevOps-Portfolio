@@ -125,12 +125,11 @@ Built a secure CI/CD pipeline integrating security tools into DevOps workflow.
 
 ---
 
-## 📊 Architecture Diagrams (Add Here)
+## 📊 Architecture Diagrams
 
-👉 Add images in `/assets` folder:
-- aws-microservices-architecture.png  
-- cicd-pipeline.png  
-- devsecops-pipeline.png  
+### 🏦 Enterprise AWS Microservices Architecture
+
+![AWS Architecture](assets/aws-devops-architecture.png)
 
 ---
 
