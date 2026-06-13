@@ -135,3 +135,19 @@ Built a secure CI/CD pipeline integrating security tools into DevOps workflow.
 ---
 
 ## 📁 GitHub Projects Structure (Recommended)
+
+---
+
+## 📫 Contact Me
+
+- 🔗 LinkedIn: www.linkedin.com/in/swetha-sunkari-6902641a6  
+- 💻 GitHub: github.com/Swetha413  
+- 📧 Email: swethasunkari2000@gmail.com  
+
+---
+
+## ⭐ Career Goal
+
+Seeking opportunities as a **DevOps / Cloud / Platform Engineer** specializing in AWS, Kubernetes, and CI/CD automation in enterprise environments.
+
+---
